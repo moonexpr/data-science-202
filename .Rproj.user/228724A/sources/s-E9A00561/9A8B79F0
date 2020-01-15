@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579106142808.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9A8B79F0",
+    "lastKnownWriteTime" : 1579107559,
+    "last_content_update" : 1579107559066,
+    "path" : "~/Documents/Repositories/DS202/ds202_hw1/hw1.Rmd",
+    "project_path" : "ds202_hw1/hw1.Rmd",
+    "properties" : {
+        "cursorPosition" : "41,7",
+        "marks" : "<:36,2\n>:36,2",
+        "scrollLine" : "34"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
