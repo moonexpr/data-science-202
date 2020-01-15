@@ -1,6 +1,6 @@
 ---
 title: "Homework 1"
-author: "John Chandara (mrpotatofactory@gmail.com)"
+author: "John Chandara (GitHub: mrpotatofactory)"
 date: "1/15/2020"
 output: html_document
 ---
