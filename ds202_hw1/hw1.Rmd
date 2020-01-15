@@ -1,9 +1,14 @@
+---
+title: "Homework 1"
+author: "John Chandara (mrpotatofactory@gmail.com)"
+date: "1/15/2020"
+output: html_document
+---
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
-# Homework 1
-John Chandara, mrpotatofactory
 
 This homework is more or less a tutorial that helps you set up the command line tools used in this course, and familiarizes you with the format of the submission requirement. As a pre-requisite of this homework, Install R and then RStudio (the free version of Rstudio Desktop). 
 This homework is **due on Jan 22** before class.
@@ -13,11 +18,6 @@ You can download a copy of this `Rmd` file on the [course website](https://xdaii
 
 1. Create a folder named `ds202_hw1`, and create an RMarkDown file `hw1.Rmd` under this folder to include your solutions. The file and folder names are *case-sensitive*, which means `hw1.Rmd` and `HW1.rmd` are different. *It is crucial to follow the exact folder structure and file names*, so that your homework can be reproduced and graded by an automated script. 
 1. Write your name and Github username in the YAML of your homework `Rmd` file.
-```yaml
-identity:
-    username: mrpotatofactory
-    fullname: John O. Chandara
-```
 
 2. Write a paragraph (<100 words) describing a job that you think is related to data science. Write your paragraph in R Markdown in a nice format to read. Include at least 
     a. a link 
